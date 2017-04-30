@@ -7,4 +7,4 @@ this repository item contains my assignments
 
 [Assignment week 5](https://github.com/u756941/assignments/blob/master/Assignment_week_5.ipynb)
 
-[Assignment week 6 / Assingment 4](https://github.com/u756941/assignments/blob/master/assignment4.ipynb)
+[Assignment week 6 / Assignment 4](https://github.com/u756941/assignments/blob/master/assignment4.ipynb)
